@@ -36,3 +36,9 @@ h2{
   width: 350px;
   float: left;
 }
+.box{
+  border-left: 2px solid rebeccapurple;
+  border-right: 4px solid yellow;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+}
