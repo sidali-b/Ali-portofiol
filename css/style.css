@@ -39,5 +39,8 @@ h2{
 .box{
   
   border: 2px solid yellow;
-
+}
+.sid{
+  width: 350px;
+  float: left;
 }
